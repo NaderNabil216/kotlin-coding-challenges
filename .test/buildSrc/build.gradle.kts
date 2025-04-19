@@ -9,5 +9,5 @@ repositories {
 
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-compiler:1.8.0")
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.9.22"))
 }
